@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FinanceApp</string>
+    <string name="logo_description">Logotipo FinanFácil</string>
+    <string name="categories">categorias</string>
 </resources>
