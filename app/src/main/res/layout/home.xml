@@ -609,16 +609,16 @@
                 </LinearLayout>
 
                 <LinearLayout
-                    android:layout_width="wrap_content"
+                    android:layout_width="88dp"
                     android:layout_height="match_parent"
                     android:orientation="vertical">
 
                     <TextView
-                        android:id="@+id/textView63"
+                        android:id="@+id/textView12"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="Descrição"
-                        android:textColor="#000000" />
+                        android:textSize="10sp" />
 
                     <TextView
                         android:id="@+id/textView64"
@@ -636,22 +636,24 @@
                 </LinearLayout>
 
                 <LinearLayout
-                    android:layout_width="wrap_content"
+                    android:layout_width="106dp"
                     android:layout_height="match_parent"
                     android:orientation="vertical">
 
                     <TextView
-                        android:id="@+id/textView66"
+                        android:id="@+id/textView17"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="Horário"
-                        android:textColor="#000000" />
+                        android:textAlignment="center"
+                        android:textSize="10sp" />
 
                     <TextView
                         android:id="@+id/textView67"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="06:39"
+                        android:textAlignment="center"
                         android:textColor="#000000" />
 
                     <TextView
@@ -659,6 +661,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="08:50"
+                        android:textAlignment="center"
                         android:textColor="#000000" />
                 </LinearLayout>
 
@@ -668,17 +671,19 @@
                     android:orientation="vertical">
 
                     <TextView
-                        android:id="@+id/textView69"
+                        android:id="@+id/textView24"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="Valor"
-                        android:textColor="#000000" />
+                        android:textAlignment="center"
+                        android:textSize="10sp" />
 
                     <TextView
                         android:id="@+id/textView70"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="R$ 616,00"
+                        android:textAlignment="center"
                         android:textColor="#000000" />
 
                     <TextView
@@ -686,6 +691,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="R$ 320,00"
+                        android:textAlignment="center"
                         android:textColor="#000000" />
                 </LinearLayout>
             </LinearLayout>
