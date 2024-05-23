@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">FinanceApp</string>
     <string name="logo_description">Logotipo FinanFácil</string>
-    <string name="categories">categorias</string>
+    <string name="categories">Categorias</string>
+    <string name="mes">Maio</string>
+    <string name="saldo">Saldo</string>
 </resources>
