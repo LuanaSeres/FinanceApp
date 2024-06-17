@@ -4,4 +4,15 @@
     <string name="categories">Categorias</string>
     <string name="mes">Maio</string>
     <string name="saldo">Saldo</string>
+    <string name="seta">Seta</string>
+    <string name="bolinha">bolinha</string>
+    <string name="alimentacao">Alimentação</string>
+    <string name="moradia">Moradia</string>
+    <string name="transporte">transporte</string>
+    <string name="lazer">lazer</string>
+    <string name="nome">nome</string>
+    <string name="orcamento">orçamento</string>
+    <string name="descricao">descrição</string>
+    <string name="cor">cor</string>
+
 </resources>
