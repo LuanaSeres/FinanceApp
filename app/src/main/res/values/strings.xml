@@ -14,5 +14,9 @@
     <string name="orcamento">orçamento</string>
     <string name="descricao">descrição</string>
     <string name="cor">cor</string>
+    <string name="expandir">expandir</string>
+    <string name="cifrao">cifrao</string>
+    <string name="registrar">registrar</string>
+    <string name="valor">valor</string>
 
 </resources>
